@@ -39,5 +39,20 @@
 - **git init** - tekitab kaustast git'ile mõeldud lisa (main)
 - **code .** - avab visual studio code, hetkel aktiivses kataloogis
 
-Markdown koodid - https://www.markdownguide.org/cheat-sheet/
-- **git init** - 
+Markdown koodid (kasutatavad ka GitHub'is) - https://www.markdownguide.org/cheat-sheet/ - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+- **git status** - aitab aru saada, mis hetkel Git'iga toimub
+- **git add readme.md** - jälgib faili
+- **git add (tärn).md** - jälgib .md faile
+- **git add .** - jälgib kõiki faile aktiivses kataloogis
+- **git add --help** - annab help faili
+- **git commit** - "save game" hetkeolukorrast
+- https://docs.github.com/en/get-started/getting-started-with-git/associating-text-editors-with-git
+- **git config --global user.name "Alvin Kask"**
+- **git config --global user.email "Alvin.Kask@tptlive.ee"**
+- https://docs.github.com/en/get-started/getting-started-with-git/associating-text-editors-with-git
+- **$ git config --global core.editor "code --wait"** - paneb visual studio code põhiliseks programmiks
+- **git log** -- abistav staatus
+- **git checkout "unik kood"** -- näitab, mis toimus eelmise commitiga
+- **git checkout main** -- läheb tagasi viimasesse commiti
+- 
+- 
