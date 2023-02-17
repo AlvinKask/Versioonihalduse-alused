@@ -34,3 +34,11 @@
 - **pwd** - annab täispika hetkeaadressi
 - **cat ...** - trükib välja etteantud faili sisu
 - **grep ...** - failisisu otsing
+
+# GIT KÄSKLUSED
+- **git init** - tekitab kaustast git'ile mõeldud lisa (main)
+- **code .** - avab visual studio code, hetkel aktiivses kataloogis
+
+Markdown koodid
+https://www.markdownguide.org/cheat-sheet/
+- **git init** - 
