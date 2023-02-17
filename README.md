@@ -45,7 +45,7 @@ Markdown koodid (kasutatavad ka GitHub'is) - https://www.markdownguide.org/cheat
 - **git add (tärn).md** - jälgib .md faile
 - **git add .** - jälgib kõiki faile aktiivses kataloogis
 - **git add --help** - annab help faili
-- **git commit** - "save game" hetkeolukorrast
+- **git commit -m "siia kirjuta kommentaar"** - "save game" hetkeolukorrast
 - https://docs.github.com/en/get-started/getting-started-with-git/associating-text-editors-with-git
 - **git config - global user.name "Alvin Kask"**
 - **git config - global user.email "Alvin.Kask@tptlive.ee"**
