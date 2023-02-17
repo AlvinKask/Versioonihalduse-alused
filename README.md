@@ -47,12 +47,25 @@ Markdown koodid (kasutatavad ka GitHub'is) - https://www.markdownguide.org/cheat
 - **git add --help** - annab help faili
 - **git commit** - "save game" hetkeolukorrast
 - https://docs.github.com/en/get-started/getting-started-with-git/associating-text-editors-with-git
-- **git config --global user.name "Alvin Kask"**
-- **git config --global user.email "Alvin.Kask@tptlive.ee"**
+- **git config - global user.name "Alvin Kask"**
+- **git config - global user.email "Alvin.Kask@tptlive.ee"**
 - https://docs.github.com/en/get-started/getting-started-with-git/associating-text-editors-with-git
-- **$ git config --global core.editor "code --wait"** - paneb visual studio code põhiliseks programmiks
-- **git log** -- abistav staatus
-- **git checkout "unik kood"** -- näitab, mis toimus eelmise commitiga
-- **git checkout main** -- läheb tagasi viimasesse commiti
-- 
-- 
+- **$ git config -global core.editor "code --wait"** - paneb visual studio code põhiliseks programmiks
+- **git log** - abistav staatus
+- **git checkout "unik kood"** - näitab, mis toimus eelmise commitiga
+- **git checkout main** - läheb tagasi viimasesse commiti
+# UUS GITHUB REPO "learngit"
+- **git remote add origin https://github.com/AlvinKask/learngit.git**
+- **git push -u origin main** - saadab masinast pilve
+- **git clone** - viskab git projekti hetkel aktiivsesse kausta
+- **git clone https://github.com/AlvinKask/learngit.git learngit2** - kloonib githubi kausta nimega learngit2
+- **git pull** - toob pilvest info arvutisse
+- **git branch** - näitab kõik harud ja kus me oleme
+- **git checkout cool_branch** - paneb meid harusse
+# Terminalis END akna paneb kinni "Q"
+- **git merge cool_branch** - sulatab kõrvalharu peaharuga kokku**
+- **git push --set-upstream origin cool_branch**
+- **git add --p(b)atch**  - kui meil on palju muudatusi (commite)
+
+- https://cbea.ms/git-commit/
+- https://www.youtube.com/watch?v=qpdYRPL3SVE
