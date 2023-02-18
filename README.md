@@ -60,6 +60,7 @@ Markdown koodid (kasutatavad ka GitHub'is) - https://www.markdownguide.org/cheat
 - **git clone** - viskab git projekti hetkel aktiivsesse kausta
 - **git clone https://github.com/AlvinKask/learngit.git learngit2** - kloonib githubi kausta nimega learngit2
 - **git pull** - toob pilvest info arvutisse
+- **git checkout -b "siia sisesta uue haru nimi" - loob uue haru ja paneb meid kohe sinna
 - **git branch** - näitab kõik harud ja kus me oleme
 - **git checkout cool_branch** - paneb meid harusse
 # Terminalis END akna paneb kinni "Q"
